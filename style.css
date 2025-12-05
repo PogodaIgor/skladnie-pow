@@ -1,62 +1,107 @@
-body{
-    display: flex;
-    margin: 0px;
+body {
+  display: flex;
+  margin: 0px;
 }
 
-.divs1{
-    width: 25%;
-    height: 100vh;
-    border: 1px solid black;
+.divs1 {
+  width: 25%;
+  height: 100vh;
+  border: 1px solid black;
 }
 
-.divs2{
-    width: 50%;
-    height: 100vh;
-    border: 1px solid black;
+.divs2 {
+  width: 50%;
+  height: 100vh;
+  border: 1px solid black;
 }
 
-.divs3{
-    width: 25%;
-    height: 100vh;
-    border: 1px solid black;
+.divs3 {
+  width: 25%;
+  height: 100vh;
+  border: 1px solid black;
 }
 
-.gora{
-    width: 100%;
-    height: 50vh;
-    background-color: green;
+.gora {
+  width: 100%;
+  height: 50vh;
+  background-color: green;
 }
 
-.dol{
-    width: 100%;
-    height: 50vh;
-    background-color: red;
+.dol {
+  width: 100%;
+  height: 50vh;
+  background-color: red;
 }
 
-.divs21{
-    display: flexbox;
-    width: 33%;
-    height: 50vh;
-    background-color: black;
-}
-.lewo{
-    display: flex;
-    width: 33%;
-    height: 50vh;
-    background-color: black;
+.lewo {
+  width: 30%;
+  height: 50vh;
+  border: 1px solid black;
+  background-color: black;
 }
 
-.srodek{
-    display: flex;
-    width: 33%;
-    height: 50vh;
-    background-color: blue;
+.srodek {
+  width: 40%;
+  height: 50vh;
+  border: 1px solid black;
+  background-color: blue;
 }
 
-.prawo{
-    display: flex;
-    width: 33%;
-    height: 50vh;
-    background-color: black;
+.prawo {
+  display: flex;
+  width: 30%;
+  height: 100vh;
+  background-color: black;
 }
 
+.divs2dl {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+}
+
+.divs2gor {
+  display: flex;
+  width: 100%;
+  height: 50vh;
+}
+
+.divs3upper {
+  width: 100%;
+  height: 50vh;
+  background-color: pink;
+}
+
+.divs3under {
+  width: 100%;
+  height: 50vh;
+  background-color: aqua;
+}
+
+.divs3upper1 {
+  display: table;
+  width: 25%;
+  height: 13vh;
+  background-color: purple;
+}
+
+.divs3upper2 {
+  display: table;
+  width: 25%;
+  height: 13vh;
+  background-color: royalblue;
+}
+
+.divs3upper3 {
+  display: table;
+  width: 25%;
+  height: 13vh;
+  background-color: darkcyan;
+}
+
+.divs3upper4 {
+  display: table;
+  width: 25%;
+  height: 13vh;
+  background-color: brown;
+}
