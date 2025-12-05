@@ -1,0 +1,62 @@
+body{
+    display: flex;
+    margin: 0px;
+}
+
+.divs1{
+    width: 25%;
+    height: 100vh;
+    border: 1px solid black;
+}
+
+.divs2{
+    width: 50%;
+    height: 100vh;
+    border: 1px solid black;
+}
+
+.divs3{
+    width: 25%;
+    height: 100vh;
+    border: 1px solid black;
+}
+
+.gora{
+    width: 100%;
+    height: 50vh;
+    background-color: green;
+}
+
+.dol{
+    width: 100%;
+    height: 50vh;
+    background-color: red;
+}
+
+.divs21{
+    display: flexbox;
+    width: 33%;
+    height: 50vh;
+    background-color: black;
+}
+.lewo{
+    display: flex;
+    width: 33%;
+    height: 50vh;
+    background-color: black;
+}
+
+.srodek{
+    display: flex;
+    width: 33%;
+    height: 50vh;
+    background-color: blue;
+}
+
+.prawo{
+    display: flex;
+    width: 33%;
+    height: 50vh;
+    background-color: black;
+}
+
